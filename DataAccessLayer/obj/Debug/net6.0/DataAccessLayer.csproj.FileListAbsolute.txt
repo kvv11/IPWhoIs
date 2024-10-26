@@ -1,0 +1,12 @@
+C:\Users\karlo\source\repos\IP_Whois\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.deps.json
+C:\Users\karlo\source\repos\IP_Whois\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.dll
+C:\Users\karlo\source\repos\IP_Whois\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.pdb
+C:\Users\karlo\source\repos\IP_Whois\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\karlo\source\repos\IP_Whois\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karlo\source\repos\IP_Whois\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\karlo\source\repos\IP_Whois\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\karlo\source\repos\IP_Whois\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\karlo\source\repos\IP_Whois\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.dll
+C:\Users\karlo\source\repos\IP_Whois\DataAccessLayer\obj\Debug\net6.0\refint\DataAccessLayer.dll
+C:\Users\karlo\source\repos\IP_Whois\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.pdb
+C:\Users\karlo\source\repos\IP_Whois\DataAccessLayer\obj\Debug\net6.0\ref\DataAccessLayer.dll
